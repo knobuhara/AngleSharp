@@ -21,7 +21,7 @@
             // 検索ページを開く
             await context.OpenAsync("https://www.google.co.jp/");
 
-            // 指定したキーワード(test)で、検索を行う
+            // 指定したキーワードで、検索を行う
             await context.Active.QuerySelector<IHtmlFormElement>("form").SubmitAsync(new
             {
                 q = _str,
