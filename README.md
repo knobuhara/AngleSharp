@@ -1,7 +1,7 @@
 # AngleSharp
 ## C# でスクレイピングの実現
 
-<img src= "https://user-images.githubusercontent.com/88915966/174937856-8ba8995e-0e6b-4d74-96e4-e989c7a2d1e8.jpg" width="500">
+<img src= "https://user-images.githubusercontent.com/88915966/174937856-8ba8995e-0e6b-4d74-96e4-e989c7a2d1e8.jpg">
 
 ~~~
     class Process
